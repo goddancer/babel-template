@@ -1,2 +1,3 @@
 # babel-template
-babel-template for npm pkg
+
+* `package.json main` is `dist/index.js` now!
